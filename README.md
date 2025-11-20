@@ -1,4 +1,4 @@
-# `MindustryModTemplate`
+# `Jooling`
 
 [Mindustry](https://github.com/Anuken/Mindustry) Java mod, otherwise known as JAR-modding, complete with [`EntityAnno`](https://github.com/GlennFolker/EntityAnno) and syntax downgrader integration, works for both Android and PC.
 
