@@ -8,6 +8,7 @@
 
 > [!IMPORTANT]
 > A **local copy** is *not* a mere ZIP archive you obtain by downloading. This is where the Git knowledge comes to play. If you have GitHub CLI or GitHub Desktop installed, the site should provide instructions on how to use either, under the `<> Code` menu.
+> 
 > [!TIP]
 > Compile in VSC or Intellij.
 
